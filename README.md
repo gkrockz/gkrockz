@@ -1,8 +1,8 @@
 <h2 align="center">Hey there, This is Kishore. <img src="image/readme-src.gif" width="80" height="80"></h2>
 
-### I'm an Budding Software Engineer || Web Developer 👨‍💻
+## I'm an Budding Software Engineer || Web Developer 👨‍💻
 
-### 🌱 Currently learning
+## 🌱 Currently learning
 
 ![DSA](https://img.shields.io/badge/DSA-6DB33F?style=for-the-badge&logo=DSA&logoColor=white)
 &nbsp;
