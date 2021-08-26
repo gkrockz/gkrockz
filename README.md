@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, This is Kishore. <img src="image/readme-src.gif" width="80" height="80"></h2>
+## Hey there, This is Kishore. <img src="image/readme-src.gif" width="80" height="80">
 
 ## I'm an Budding Software Engineer || Web Developer 👨‍💻
 
