@@ -4,13 +4,14 @@
 
 ## 🌱 Currently learning
 
-![DSA](https://img.shields.io/badge/DSA-6DB33F?style=for-the-badge&logo=DSA&logoColor=white)
+![App Development](https://img.shields.io/badge/-App%20Development-blue?style=for-the-badge&logo=app&logoColor=white)
+&nbsp;
+![DSA](https://img.shields.io/badge/DSA-lightblue?style=for-the-badge&logo=DSA&logoColor=white)
 &nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 &nbsp;
 &nbsp;
-![App Development](https://img.shields.io/badge/-App%20Development-blue?style=for-the-badge&logo=app&logoColor=white)
-&nbsp;
+
 
 ### Stats:
 
