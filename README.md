@@ -1,9 +1,11 @@
-## Hey there, this is kishore ! <img src="image/header.gif" width="80" height="80">
+## Hey there, this is Kishore! <img src="https://media.tenor.com/8B7z14WiY00AAAAj/panda-hi.gif?raw=true" height="80" width="80" /> 
 
-> 🧑‍💻 I'm currently developing projects on Full stack web development.
+### 🧑‍💻 Tech I Work With 
 
-## GitHub stats:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,github,git,postman,vscode,sublime,replit,azure,windows,linux" height="30" /> 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrockz&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+> I work across full stack development and data analytics - blending code with insights to drive impact in the tech space.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrockz&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+--- 
+### 📊 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrockz&theme=nord&show_icons=true&hide=issues&rank_icon=github&border_color=3B4252&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
